@@ -1,0 +1,267 @@
+<center>
+<table cellspacing="0" width="100%">
+<tbody>
+<tr valign="top">
+<td style="padding: 15px" colspan="3">
+</td>
+</tr>
+</tbody>
+</table>
+<img src="http://images.acitius.com/nav/shops.png">
+<br>
+<table width="90%">
+<tbody>
+<tr>
+<td align="left">
+<table cellspacing="0" width="100%">
+<tbody>
+<tr valign="top">
+<td colspan="3" style="padding: 15px">
+</td>
+</tr>
+<tr height="250">
+<td>
+<center>
+<a href="shops.php?id=9">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Bok's Grocery
+<br>
+<br>
+<a href="shops.php?id=9">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=10">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Cafe de Petaline
+<br>
+<br>
+<a href="shops.php?id=10">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=11">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+The Sweet Shoppe
+<br>
+<br>
+<a href="shops.php?id=11">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+</tr>
+<tr height="250">
+<td>
+<center>
+<a href="shops.php?id=12">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Aethelia's Magic & Potions
+<br>
+<br>
+<a href="shops.php?id=12">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=14">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+The Top Hat
+<br>
+<br>
+<a href="shops.php?id=14">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=15">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Tinker's Toys
+<br>
+<br>
+<a href="shops.php?id=15">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+</tr>
+<tr height="250">
+<td>
+<center>
+<a href="shops.php?id=16">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Boutique con Carne
+<br>
+<br>
+<a href="shops.php?id=16">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=17">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Suave 'n' Sassy
+<br>
+<br>
+<a href="shops.php?id=17">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=18">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Lab 503
+<br>
+<br>
+<a href="shops.php?id=18">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+</tr>
+<tr height="250">
+<td>
+<center>
+<a href="shops.php?id=19">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Seek and Destroy
+<br>
+<br>
+<a href="shops.php?id=19">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=20">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Regimen Heaven
+<br>
+<br>
+<a href="shops.php?id=20">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=21">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Demartio's
+<br>
+<br>
+<a href="shops.php?id=21">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+</tr>
+<tr height="250">
+<td>
+<center>
+<a href="shops.php?id=22">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+Bound to Please
+<br>
+<br>
+<a href="shops.php?id=22">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=23">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+The Lily Pad
+<br>
+<br>
+<a href="shops.php?id=23">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+<td>
+<center>
+<a href="shops.php?id=24">
+<img src="http://images.acitius.com/characters/bibby_default.png" height="!50" border="1" width="150">
+<br>
+<br>
+</a>
+The Millionaire Shop
+<br>
+<br>
+<a href="shops.php?id=24">
+<b>View Shop</b>
+</a>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" width="100%">
+<tbody>
+<tr valign="bottom">
+<td style="padding: 15px" colspan="3">
+</td>
+</tr>
+</tbody>
+</table>
+</center>
